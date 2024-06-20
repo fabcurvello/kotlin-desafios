@@ -4,18 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c2dfa6fc-2740-44d2-b43c-78a9fd9a6cf4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kotlin-desafios.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/desafio01.kt" afterDir="false" />
+    <list default="true" id="c2dfa6fc-2740-44d2-b43c-78a9fd9a6cf4" name="Changes" comment="Desafio 01 concluído">
+      <change afterPath="$PROJECT_DIR$/src/desafio02.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +35,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Kotlin.Desafio01Kt.executor": "Run",
+    "Kotlin.Desafio02Kt.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "/Users/fabriciocurvello/Projetos/IntelliJ IDEA/kotlin-desafios/src/Main.kt"
@@ -58,7 +50,20 @@
       <option name="presentableId" value="Default" />
       <updated>1718916717022</updated>
     </task>
+    <task id="LOCAL-00001" summary="Desafio 01 concluído">
+      <option name="closed" value="true" />
+      <created>1718918428205</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1718918428205</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Desafio 01 concluído" />
+    <option name="LAST_COMMIT_MESSAGE" value="Desafio 01 concluído" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
