@@ -24,10 +24,10 @@ Exemplos:
 A tabela abaixo apresenta exemplos com alguns dados de entrada e suas respectivas saídas esperadas.
 Certifique-se de testar seu programa com esses exemplos e com outros casos possíveis.
 
-Entrada	Saída
-V	5
-II	2
-MCII	1102
+Entrada	 Saída
+   V	  5
+   II	  2
+   MCII	  1102
  */
 
 fun main() {
